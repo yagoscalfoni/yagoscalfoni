@@ -5,12 +5,12 @@
 
 <div align="center">
   <a href="https://github.com/yagoscalfoni">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yagoscalfoni&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoscalfoni&layout=compact&langs_count=7&theme=merko"/>
+  <img align="right" img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoscalfoni&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img align="left" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoscalfoni&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Yago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Yago-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
