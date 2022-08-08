@@ -1,6 +1,6 @@
 ### Opa, me chamo Yago Scalfoni, seja bem-vindo(a)! 👋👋👋
 
-- 🌱 Estudando Python
+- 🌱 Estudando Python e C#
 - 📫 Me contate no e-mail: yago.escalfoni2020@gmail.com
 
 <div align="center">
