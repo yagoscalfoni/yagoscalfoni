@@ -11,8 +11,6 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Yago-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Yago-c#" height="60" width="80" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-">
 </div>
   
   ##
