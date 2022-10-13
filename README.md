@@ -1,6 +1,6 @@
 ### Opa, me chamo Yago Scalfoni, seja bem-vindo(a)! 👋👋👋
 
-- 🌱 Atualmente estou estudando desenvolvimento web em Python com Django
+- 🌱 Atualmente estou estudando desenvolvimento web em com Django
 - 📫 Me contate no e-mail: yago.escalfoni2020@gmail.com
 
 <div align="center">
