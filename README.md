@@ -1,6 +1,6 @@
 ### Opa, me chamo Yago Scalfoni, seja bem-vindo(a)! 👋👋👋
 
-- 🌱 Atualmente estou estudando desenvolvimento back-end com C# e SQL Server. Próximo alvo de meus estudos está o Delphi :)
+- 🌱 Atualmente estou estudando desenvolvimento back-end com C# e SQL Server. Próximo alvo de meus estudos é o Delphi :)
 - Conhecimento em Python, MySQL, e um pouquinho de C
 - 📫 Me contate no e-mail: yago.escalfoni2020@gmail.com
 - 
