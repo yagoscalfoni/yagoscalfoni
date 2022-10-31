@@ -1,6 +1,6 @@
 ### Opa, me chamo Yago Scalfoni, seja bem-vindo(a)! 👋👋👋
 
-- 🌱 Atualmente estou estudando desenvolvimento back-end com C#.
+- 🌱 Atualmente estou estudando Data Science e Machine Learning com Python.
 - Conhecimento em Python, MySQL, SQLServer e um pouquinho de C
 - 📫 Me contate no e-mail: yago.escalfoni2020@gmail.com
 
