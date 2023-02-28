@@ -1,7 +1,7 @@
 ### Opa, me chamo Yago Scalfoni, seja bem-vindo(a)! 👋👋👋
 
-- 🌱 Atualmente estou estudando Data Science e Machine Learning com Python.
-- Conhecimento em Python, MySQL e um pouquinho de C
+- 🌱 Atualmente estou estudando Microsserviços em .NET CORE 6.
+- Conhecimento em C#, SQL e um pouco de Python.
 - 📫 Me contate em: yago.escalfoni2020@gmail.com ou https://www.linkedin.com/in/yago-escalfoni-moraes-dos-santos-994a35230/
 
 <div align="center">
