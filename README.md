@@ -12,7 +12,7 @@ Também gosto bastante da área de automação, então Pythonistas também, seja
 - MongoDB
 - PostgreSQL
 
-- 📫 Me contate em: yago.escalfoni2020@gmail.com ou https://www.linkedin.com/in/yago-escalfoni-moraes-dos-santos-994a35230/
+- 📫 Me contate em: yago.escalfoni2020@gmail.com ou https://www.linkedin.com/in/yago-scalfoni-moraes-dos-santos-994a35230/
 
 <div align="center">
   <a href="https://github.com/yagoscalfoni">
