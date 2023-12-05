@@ -1,7 +1,7 @@
 ### Opa, me chamo Yago Scalfoni, seja bem-vindo(a)! 👋👋👋
 
-- 🌱 Atualmente estou estudando Microsserviços em .NET CORE 6.
-- Conhecimento em C#, SQL e um pouco de Python.
+Em um ano de experiência de mercado concentra-se no desenvolvimento de aplicações desktop e Web APIs utilizando C#. Minha paixão está na exploração das vastas possibilidades oferecidas pelo C# e suas tecnologias associadas. Possuo experiência na criação de interfaces dinâmicas com Windows Forms e na construção de Web APIs. Utilizo o Entity Framework para otimizar o acesso e manipulação de dados, trabalhando com bancos de dados como MongoDB, SQL Server e Postgres.todo o potencial dessas ferramentas para interfaces intuitivas e funcionais.
+
 - 📫 Me contate em: yago.escalfoni2020@gmail.com ou https://www.linkedin.com/in/yago-escalfoni-moraes-dos-santos-994a35230/
 
 <div align="center">
