@@ -12,8 +12,6 @@ Também gosto bastante da área de automação, então Pythonistas também, seja
 - MongoDB
 - PostgreSQL
 
-- 📫 Me contate em: yago.escalfoni2020@gmail.com ou https://www.linkedin.com/in/yago-scalfoni-moraes-dos-santos-994a35230/
-
 <div align="center">
   <a href="https://github.com/yagoscalfoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoscalfoni&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -30,7 +28,7 @@ Também gosto bastante da área de automação, então Pythonistas também, seja
   <div> 
   <a href="https://www.instagram.com/yagoscalfoni_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yago.escalfoni2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yago-escalfoni-moraes-dos-santos-994a35230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://www.codewars.com/users/YagoScalfoni" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/yago-scalfoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.codewars.com/users/YagoScalfoni" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a> 
 
 </div>
