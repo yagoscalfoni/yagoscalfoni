@@ -1,16 +1,15 @@
 ### Opa, me chamo Yago Scalfoni, seja bem-vindo(a)! 👋👋👋
 
-Entusiasta do C# possuindo um pouco mais de um ano de experiência no mercado de trabalho construindo Interfaces com Windows Forms e criação de API's com a tecnologia.
-Também gosto bastante da área de automação, então Pythonistas também, sejam bem-vindos ao meu perfil!
+Main Stack no .NET/C#, mas arranhando um React.js
 
 - C#
 - Entity Framework
 - Web APIs
 - RabbitMQ
-- Python
 - HTML, CSS & Javascript
 - MongoDB
 - PostgreSQL
+- JavaScript
 
 <div align="center">
   <a href="https://github.com/yagoscalfoni">
