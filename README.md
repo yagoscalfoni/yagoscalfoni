@@ -10,6 +10,8 @@ Main Stack no .NET/C#, mas arranhando um React.js
 - MongoDB
 - PostgreSQL
 - JavaScript
+- React.js
+- Angular
 
 <div align="center">
   <a href="https://github.com/yagoscalfoni">
