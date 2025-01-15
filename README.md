@@ -1,6 +1,6 @@
-### Opa, me chamo Yago Scalfoni, seja bem-vindo(a)! 👋👋👋
+### Hi, I'm Yago Scalfoni, welcome! 👋👋👋
 
-Main Stack no .NET/C#, mas arranhando um React.js
+Main Stack no .NET/C#
 
 - C#
 - Entity Framework
