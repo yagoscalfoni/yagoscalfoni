@@ -1,6 +1,6 @@
 ### Hi, I'm Yago Scalfoni, welcome! 👋👋👋
 
-Main Stack no .NET/C#
+Main Stack on .NET/C#
 
 - C#
 - Entity Framework
