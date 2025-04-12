@@ -1,17 +1,40 @@
-### Hi, I'm Yago Scalfoni, welcome! 👋👋👋
+# 👋 Hi, I'm Yago Escalfoni
 
-Main Stack on .NET/C#
+I'm a Software Engineer from Brazil passionate about building scalable, high-performance backend systems. I currently work at ABC Fitness – EVO, developing internal solutions with .NET, Angular, and Azure.
 
-- C#
-- Entity Framework
-- Web APIs
-- RabbitMQ
-- HTML, CSS & Javascript
-- MongoDB
-- PostgreSQL
-- JavaScript
-- React.js
-- Angular
+## 🧠 About Me
+- 🧩 Experienced in C#, ASP.NET Core, Entity Framework, Angular, Azure Functions, SQL Server, PostgreSQL, and microservices.
+- 🔐 Focused on security, system performance, and clean architecture.
+- 🌍 Actively improving my English (B2 Certified) and aiming for international remote opportunities.
+
+## 🚀 Featured Project
+
+### [🔗 EShopMicroservices](https://github.com/yagoscalfoni/EShopMicroservices)
+A complete, cloud-native e-commerce backend using modern .NET 8 capabilities and clean architectural patterns.
+
+**Tech Stack & Highlights:**
+- ✅ **.NET 8**, C# 12, ASP.NET Core (Minimal APIs & Razor Pages)
+- ✅ **DDD**, **CQRS**, **Vertical Slice** and **Clean Architecture**
+- ✅ **gRPC** for synchronous communication
+- ✅ **RabbitMQ + MassTransit** for asynchronous messaging
+- ✅ **MediatR**, **Mapster**, **Carter**, **FluentValidation**, **EF Core**
+- ✅ **PostgreSQL**, **Redis**, **SQLite**, **SQL Server**, **Marten (Document DB)**
+- ✅ **Docker + Docker Compose**, ready for Kubernetes & cloud deployments
+- ✅ **YARP API Gateway**, Health Checks, Logging, OpenTelemetry support
+- ✅ Integrated **Refit client** for front-end API consumption
+
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagoescalfoni/)
+
+---
+
+## 📊 GitHub Stats
+
+![Yago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagoscalfoni&show_icons=true&theme=default&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoscalfoni&layout=compact&theme=default)
+
+---
 
 <div align="center">
   <a href="https://github.com/yagoscalfoni">
