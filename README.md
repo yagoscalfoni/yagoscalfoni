@@ -27,14 +27,6 @@ A complete, cloud-native e-commerce backend using modern .NET 8 capabilities and
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagoescalfoni/)
 
----
-
-## 📊 GitHub Stats
-
-![Yago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagoscalfoni&show_icons=true&theme=default&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoscalfoni&layout=compact&theme=default)
-
----
 
 <div align="center">
   <a href="https://github.com/yagoscalfoni">
