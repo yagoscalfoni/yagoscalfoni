@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yago Escalfoni
 
-I'm a Software Engineer from Brazil passionate about building scalable, high-performance backend systems. I currently work at ABC Fitness – EVO, developing internal solutions with .NET, Angular, and Azure.
+I'm a Software Engineer from Brazil passionate about building scalable, high-performance backend systems. I currently work at ABC Fitness – EVO, developing internal solutions with .NET and Angular.
 
 ## 🧠 About Me
 - 🧩 Experienced in C#, ASP.NET Core, Entity Framework, Angular, Azure Functions, SQL Server, PostgreSQL, and microservices.
